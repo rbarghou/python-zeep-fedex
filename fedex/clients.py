@@ -1,7 +1,7 @@
 from zeep import Client
 
 
-class WebWervices(object):
+class WebServices(object):
 
     @classmethod
     def get_country_service_client(cls):
